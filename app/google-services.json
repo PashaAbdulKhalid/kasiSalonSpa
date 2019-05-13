@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1033898782143",
+    "firebase_url": "https://project-792647715360665732.firebaseio.com",
+    "project_id": "project-792647715360665732",
+    "storage_bucket": "project-792647715360665732.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033898782143:android:2717d1f42c2c01b2",
+        "android_client_info": {
+          "package_name": "com.example.kasirsalonspa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033898782143-3mra3810678lpnrg61bc5sv2qhrnhriv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kasirsalonspa",
+            "certificate_hash": "6ea9ba600b418178e47711440dd31106a4271d95"
+          }
+        },
+        {
+          "client_id": "1033898782143-a78cce67a2rei9nmp09bb7lgpkn08ns6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhJ2kx2xzGRqslDUHoWHMhZkcMfOibvhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033898782143-a78cce67a2rei9nmp09bb7lgpkn08ns6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
